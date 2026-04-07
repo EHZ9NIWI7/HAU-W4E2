@@ -31,7 +31,7 @@ The benchmark utilizes two separate annotation pipelines for its two constituent
 
 
 ## Running
-Please run this code via <code>main.py</code>. The arguments can be specified either through the [YAML](./confis/Qwen2.5-VL-7B-Instruct.yaml) file (in [./configs/](./configs/)) or the command line. 
+Please run this code via <code>main.py</code>. The arguments can be specified either through the [YAML](./configs/Qwen2.5-VL-7B-Instruct.yaml) file (in [./configs/](./configs/)) or the command line. 
 ```bash
 python main.py -c Qwen2-VL-7B-Instruct -e
 python main.py -m Qwen2-VL-7B-Instruct -s NTU -g 0,1 -e
