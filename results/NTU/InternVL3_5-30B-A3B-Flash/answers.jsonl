@@ -1,0 +1,240 @@
+{"video": "1-S006C003P022R001A001_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "relief", "eff_obj": "empty"}
+{"video": "1-S013C003P008R001A001_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "2", "eff_sub": "thirsty", "eff_obj": "empty"}
+{"video": "2-S004C003P020R001A002_rgb.avi", "act": "1", "sub": "1", "obj": "4", "loc": "2", "eff_sub": "get nutrition", "eff_obj": "spillage of contents"}
+{"video": "2-S009C001P016R001A002_rgb.avi", "act": "2", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "satisfies hunger", "eff_obj": "none"}
+{"video": "3-S003C003P016R001A003_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "2", "eff_sub": "clean teeth", "eff_obj": "cleanliness"}
+{"video": "3-S009C003P008R002A003_rgb.avi", "act": "1", "sub": "5. Someone", "obj": "1", "loc": "1", "eff_sub": "Saves energy", "eff_obj": "empty"}
+{"video": "4-S006C002P017R002A004_rgb.avi", "act": "2", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "relax", "eff_obj": "None"}
+{"video": "4-S011C002P001R002A004_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "2", "eff_sub": "relax shoulder", "eff_obj": "None"}
+{"video": "5-S004C002P008R002A005_rgb.avi", "act": "1", "sub": "1", "obj": "2", "loc": "2", "eff_sub": "dejected", "eff_obj": "no"}
+{"video": "5-S012C003P016R002A005_rgb.avi", "act": "1", "sub": "1", "obj": "3", "loc": "2", "eff_sub": "disappointed", "eff_obj": "\u843d\u5730"}
+{"video": "6-S006C001P015R002A006_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "happy", "eff_obj": "attached to me"}
+{"video": "6-S012C003P037R002A006_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "good", "eff_obj": "attached to me"}
+{"video": "7-S001C001P004R002A007_rgb.avi", "act": "2", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "It might make the performer feel tired.", "eff_obj": "None"}
+{"video": "7-S012C003P007R001A007_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "exhausting", "eff_obj": "in the air"}
+{"video": "8-S003C002P017R002A008_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "2", "eff_sub": "sitting down can be relaxing", "eff_obj": "chair"}
+{"video": "8-S008C002P032R001A008_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "relaxing", "eff_obj": "None"}
+{"video": "9-S012C003P007R002A009_rgb.avi", "act": "2", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "exhaustion", "eff_obj": "None"}
+{"video": "9-S012C003P028R001A009_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "The performer may appear more confident.", "eff_obj": "None"}
+{"video": "10-S007C001P026R001A010_rgb.avi", "act": "1", "sub": "1", "obj": "2. Nothing", "loc": "2", "eff_sub": "It might make her feel happy.", "eff_obj": "None"}
+{"video": "10-S007C001P028R001A010_rgb.avi", "act": "1", "sub": "1", "obj": "2", "loc": "2", "eff_sub": "clean hands", "eff_obj": "None"}
+{"video": "11-S006C001P024R001A011_rgb.avi", "act": "2", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "calms down", "eff_obj": "no"}
+{"video": "11-S012C001P008R001A011_rgb.avi", "act": "2", "sub": "1", "obj": "2", "loc": "5", "eff_sub": "Focuses on reading", "eff_obj": "None"}
+{"video": "12-S004C003P007R001A012_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "2", "eff_sub": "It might make the performer feel bored.", "eff_obj": "None"}
+{"video": "12-S017C001P015R001A012_rgb.avi", "act": "2. Writing", "sub": "1", "obj": "3", "loc": "1", "eff_sub": "Focus on writing", "eff_obj": "reading"}
+{"video": "13-S010C003P007R001A013_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "2", "eff_sub": "relax", "eff_obj": "torn"}
+{"video": "13-S013C003P007R001A013_rgb.avi", "act": "1", "sub": "1", "obj": "2", "loc": "2", "eff_sub": "relieved", "eff_obj": "crinkled"}
+{"video": "14-S010C001P007R001A014_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "2", "eff_sub": "comfortable", "eff_obj": "worn"}
+{"video": "14-S013C003P037R002A014_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "2", "eff_sub": "feel more confident", "eff_obj": "wear"}
+{"video": "15-S007C003P027R001A015_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "2. In an office", "eff_sub": "the performer will be more comfortable", "eff_obj": "spatial relationships"}
+{"video": "15-S010C003P007R001A015_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "2", "eff_sub": "It might make the performer feel comfortable.", "eff_obj": "attached to me"}
+{"video": "16-S002C003P003R001A016_rgb.avi", "act": "3", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "relief", "eff_obj": "None"}
+{"video": "16-S009C003P017R001A016_rgb.avi", "act": "3", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "relaxation", "eff_obj": "None"}
+{"video": "17-S005C002P021R002A017_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "It may improve flexibility and balance.", "eff_obj": "untie shoe"}
+{"video": "17-S017C003P008R001A017_rgb.avi", "act": "3. Take off a shoe", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "tired", "eff_obj": "\u8131\u843d"}
+{"video": "18-S006C001P017R001A018_rgb.avi", "act": "4. Take off glasses", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "clear view", "eff_obj": "wearing glasses"}
+{"video": "18-S014C003P015R001A018_rgb.avi", "act": "4. Take off glasses", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "relax", "eff_obj": "phone"}
+{"video": "19-S002C003P013R001A019_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "coughing", "eff_obj": "glasses"}
+{"video": "19-S008C001P029R002A019_rgb.avi", "act": "2. Take off glasses", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "rests", "eff_obj": "tissue"}
+{"video": "20-S005C003P017R002A020_rgb.avi", "act": "1. Put on a hat", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "feels cool", "eff_obj": "wearable"}
+{"video": "20-S015C001P025R001A020_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "4", "eff_sub": "relaxation", "eff_obj": "helmet"}
+{"video": "21-S006C001P007R002A021_rgb.avi", "act": "3. Take off a hat", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "cooling down", "eff_obj": "none"}
+{"video": "21-S017C002P008R001A021_rgb.avi", "act": "3. Take off a hat", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "relieved", "eff_obj": "attached to me"}
+{"video": "22-S001C001P007R002A022_rgb.avi", "act": "2", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "express happiness", "eff_obj": "None"}
+{"video": "22-S010C002P015R001A022_rgb.avi", "act": "2", "sub": "1", "obj": "2", "loc": "2", "eff_sub": "relax", "eff_obj": "None"}
+{"video": "23-S016C001P008R002A023_rgb.avi", "act": "1", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "tired", "eff_obj": "None"}
+{"video": "23-S016C003P008R002A023_rgb.avi", "act": "1", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "could be seen as boring if done for too long", "eff_obj": "None"}
+{"video": "24-S003C001P018R001A024_rgb.avi", "act": "1", "sub": "1", "obj": "2", "loc": "2", "eff_sub": "balance", "eff_obj": "None"}
+{"video": "24-S013C002P007R001A024_rgb.avi", "act": "1", "sub": "1", "obj": "5. Nothing", "loc": "2", "eff_sub": "reduces leg flexibility", "eff_obj": "knocked down"}
+{"video": "25-S008C001P019R002A025_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "It might make the performer feel relaxed.", "eff_obj": "None"}
+{"video": "25-S011C002P025R001A025_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "2", "eff_sub": "It might make the performer feel relaxed.", "eff_obj": "removes his phone"}
+{"video": "26-S004C003P007R002A026_rgb.avi", "act": "2", "sub": "1", "obj": "2", "loc": "2", "eff_sub": "improve flexibility", "eff_obj": "None"}
+{"video": "26-S008C002P033R001A026_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "relieved", "eff_obj": "None"}
+{"video": "27-S006C002P016R001A027_rgb.avi", "act": "3", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "increased energy", "eff_obj": "None"}
+{"video": "27-S008C001P015R001A027_rgb.avi", "act": "3. Jump up", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "refreshes the performer", "eff_obj": "None"}
+{"video": "28-S002C001P007R001A028_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "It could make the performer feel more organized and prepared.", "eff_obj": "call"}
+{"video": "28-S016C002P040R002A028_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "can make people more relaxed", "eff_obj": "call"}
+{"video": "29-S008C002P015R002A029_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "reduces stress", "eff_obj": "None"}
+{"video": "29-S008C003P007R002A029_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "relaxed", "eff_obj": "none"}
+{"video": "30-S002C002P011R001A030_rgb.avi", "act": "4", "sub": "1", "obj": "4", "loc": "1", "eff_sub": "tired", "eff_obj": "None"}
+{"video": "30-S011C003P028R002A030_rgb.avi", "act": "4", "sub": "1", "obj": "2", "loc": "2", "eff_sub": "It may make the performer more thoughtful.", "eff_obj": "none"}
+{"video": "31-S006C003P001R002A031_rgb.avi", "act": "1", "sub": "1", "obj": "2", "loc": "1. In a meeting room", "eff_sub": "exhaustion", "eff_obj": "None"}
+{"video": "31-S008C003P032R001A031_rgb.avi", "act": "1", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "informs", "eff_obj": "None"}
+{"video": "32-S009C003P016R001A032_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "can make a person feel good", "eff_obj": "no effect"}
+{"video": "32-S012C002P016R002A032_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "selfie", "eff_obj": "selfie"}
+{"video": "33-S006C002P008R002A033_rgb.avi", "act": "2. Check time", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "increased heart rate", "eff_obj": "None"}
+{"video": "33-S016C001P040R002A033_rgb.avi", "act": "2. Check time", "sub": "1", "obj": "2", "loc": "1. In a meeting room", "eff_sub": "It may increase the performer's sense of urgency.", "eff_obj": "None"}
+{"video": "34-S013C003P019R001A034_rgb.avi", "act": "1", "sub": "1", "obj": "2", "loc": "2", "eff_sub": "relief", "eff_obj": "None"}
+{"video": "34-S017C001P017R002A034_rgb.avi", "act": "1", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "calms down", "eff_obj": "None"}
+{"video": "35-S013C001P037R001A035_rgb.avi", "act": "3", "sub": "1", "obj": "2. Nothing", "loc": "2", "eff_sub": "relieved", "eff_obj": "None"}
+{"video": "35-S015C002P019R002A035_rgb.avi", "act": "3", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "relieved", "eff_obj": "None"}
+{"video": "36-S001C001P006R001A036_rgb.avi", "act": "1", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "It might make the performer appear more relaxed and calm.", "eff_obj": "None"}
+{"video": "36-S009C001P015R001A036_rgb.avi", "act": "1", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "It might make the performer more relaxed.", "eff_obj": "None"}
+{"video": "37-S008C001P036R002A037_rgb.avi", "act": "2. Wipe face", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "relieved", "eff_obj": "None"}
+{"video": "37-S016C002P019R001A037_rgb.avi", "act": "2. Wipe face", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "sick", "eff_obj": "None"}
+{"video": "38-S006C001P017R001A038_rgb.avi", "act": "3", "sub": "1", "obj": "3", "loc": "1", "eff_sub": "it can make you feel better", "eff_obj": "None"}
+{"video": "38-S008C002P015R002A038_rgb.avi", "act": "3", "sub": "1", "obj": "3", "loc": "1", "eff_sub": "saluting", "eff_obj": "None"}
+{"video": "39-S006C002P024R001A039_rgb.avi", "act": "3", "sub": "1", "obj": "3", "loc": "1", "eff_sub": "relax", "eff_obj": "None"}
+{"video": "39-S008C002P015R002A039_rgb.avi", "act": "3", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "relax", "eff_obj": "None"}
+{"video": "40-S007C002P016R002A040_rgb.avi", "act": "2", "sub": "1", "obj": "2. Nothing", "loc": "2", "eff_sub": "relax", "eff_obj": "None"}
+{"video": "40-S007C003P026R001A040_rgb.avi", "act": "2", "sub": "1", "obj": "3", "loc": "2", "eff_sub": "relax", "eff_obj": "None"}
+{"video": "41-S002C001P009R002A041_rgb.avi", "act": "2", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "it's impossible to know", "eff_obj": "None"}
+{"video": "41-S005C001P018R001A041_rgb.avi", "act": "2", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "it makes her feel better", "eff_obj": "None"}
+{"video": "42-S013C001P017R002A042_rgb.avi", "act": "1", "sub": "1", "obj": "2. Nothing", "loc": "2", "eff_sub": "could make me feel free", "eff_obj": "None"}
+{"video": "42-S014C003P008R001A042_rgb.avi", "act": "1", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "relief", "eff_obj": "None"}
+{"video": "43-S001C001P007R002A043_rgb.avi", "act": "4", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "tired", "eff_obj": "None"}
+{"video": "43-S013C001P015R001A043_rgb.avi", "act": "4", "sub": "1", "obj": "2. Nothing", "loc": "2", "eff_sub": "take a rest", "eff_obj": "None"}
+{"video": "44-S007C002P019R002A044_rgb.avi", "act": "1", "sub": "1", "obj": "2. Nothing", "loc": "2", "eff_sub": "thinking", "eff_obj": "cell phone"}
+{"video": "44-S008C001P001R002A044_rgb.avi", "act": "1", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "relax", "eff_obj": "None"}
+{"video": "45-S007C002P018R002A045_rgb.avi", "act": "2", "sub": "1", "obj": "2. Nothing", "loc": "2", "eff_sub": "It relieves discomfort in the stomach area.", "eff_obj": "None"}
+{"video": "45-S016C001P021R002A045_rgb.avi", "act": "2", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "sick", "eff_obj": "tissue"}
+{"video": "46-S007C003P028R001A046_rgb.avi", "act": "3", "sub": "1", "obj": "2. Nothing", "loc": "2", "eff_sub": "It may help reduce stress.", "eff_obj": "None"}
+{"video": "46-S015C001P008R002A046_rgb.avi", "act": "4", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "reduces body stress", "eff_obj": "None"}
+{"video": "47-S003C002P001R002A047_rgb.avi", "act": "4", "sub": "1", "obj": "2", "loc": "2", "eff_sub": "relax", "eff_obj": "None"}
+{"video": "47-S007C002P008R002A047_rgb.avi", "act": "4", "sub": "1", "obj": "2. Nothing", "loc": "2", "eff_sub": "itchy", "eff_obj": "None"}
+{"video": "48-S001C001P001R002A048_rgb.avi", "act": "4", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "relieved", "eff_obj": "None"}
+{"video": "48-S010C001P015R001A048_rgb.avi", "act": "3", "sub": "1", "obj": "2", "loc": "2", "eff_sub": "relax", "eff_obj": "None"}
+{"video": "49-S013C003P016R001A049_rgb.avi", "act": "2", "sub": "1", "obj": "4", "loc": "2", "eff_sub": "can make one feel relaxed", "eff_obj": "fanned"}
+{"video": "49-S016C003P019R002A049_rgb.avi", "act": "2", "sub": "1", "obj": "2", "loc": "5. Unknown", "eff_sub": "tired", "eff_obj": "None"}
+{"video": "50-S008C002P008R002A050_rgb.avi", "act": "1", "sub": "3", "obj": "2. Nothing", "loc": "1", "eff_sub": "hurt", "eff_obj": "markedness"}
+{"video": "50-S016C002P039R001A050_rgb.avi", "act": "0", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "hurt", "eff_obj": "None"}
+{"video": "51-S007C003P017R002A051_rgb.avi", "act": "2", "sub": "2", "obj": "2", "loc": "2", "eff_sub": "make friendlier", "eff_obj": "None"}
+{"video": "51-S011C003P016R001A051_rgb.avi", "act": "2. Kicking other person", "sub": "1", "obj": "1", "loc": "2", "eff_sub": "hurt", "eff_obj": "None"}
+{"video": "52-S014C003P008R001A052_rgb.avi", "act": "3", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "increase in strength", "eff_obj": "attached to the other person"}
+{"video": "52-S017C001P020R002A052_rgb.avi", "act": "1", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "embarrassed", "eff_obj": "touch"}
+{"video": "53-S001C001P006R002A053_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "make the other person relaxed", "eff_obj": "None"}
+{"video": "53-S003C001P001R001A053_rgb.avi", "act": "2", "sub": "2", "obj": "2. Nothing", "loc": "2", "eff_sub": "emotional impact", "eff_obj": "None"}
+{"video": "54-S004C002P020R002A054_rgb.avi", "act": "2", "sub": "1", "obj": "2. Nothing", "loc": "2", "eff_sub": "could be embarrassed", "eff_obj": "None"}
+{"video": "54-S013C003P037R002A054_rgb.avi", "act": "2", "sub": "1", "obj": "2", "loc": "2", "eff_sub": "hurt", "eff_obj": "None"}
+{"video": "55-S008C001P032R002A055_rgb.avi", "act": "3", "sub": "4", "obj": "2", "loc": "1", "eff_sub": "decrease in anxiety", "eff_obj": "None"}
+{"video": "55-S012C002P019R002A055_rgb.avi", "act": "3", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "hug", "eff_obj": "None"}
+{"video": "56-S003C003P019R001A056_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "2", "eff_sub": "obligated", "eff_obj": "attached to the other person"}
+{"video": "56-S011C002P007R001A056_rgb.avi", "act": "1", "sub": "1", "obj": "3", "loc": "2", "eff_sub": "put something on table", "eff_obj": "attached to the other person"}
+{"video": "57-S002C002P009R001A057_rgb.avi", "act": "2", "sub": "1", "obj": "3", "loc": "1", "eff_sub": "relaxed", "eff_obj": "attached to the other person"}
+{"video": "57-S009C001P025R002A057_rgb.avi", "act": "2", "sub": "1", "obj": "3", "loc": "1", "eff_sub": "satisfied", "eff_obj": "attached to the other person"}
+{"video": "58-S005C001P015R001A058_rgb.avi", "act": "2", "sub": "2", "obj": "2", "loc": "1", "eff_sub": "happy", "eff_obj": "None"}
+{"video": "58-S014C003P007R002A058_rgb.avi", "act": "2", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "be friendly", "eff_obj": "enhanced understanding"}
+{"video": "59-S002C002P014R002A059_rgb.avi", "act": "2", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "tired", "eff_obj": "None"}
+{"video": "59-S003C001P001R001A059_rgb.avi", "act": "2", "sub": "2", "obj": "2", "loc": "2", "eff_sub": "build tension", "eff_obj": "None"}
+{"video": "60-S006C002P019R002A060_rgb.avi", "act": "4", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "Leaving the room may provide the performer with a sense of relief or avoidance of a potentially uncomfortable situation.", "eff_obj": "None"}
+{"video": "60-S015C001P016R001A060_rgb.avi", "act": "4", "sub": "2", "obj": "2. Nothing", "loc": "1", "eff_sub": "tired", "eff_obj": "None"}
+{"video": "61-S030C003P094R001A061_rgb.avi", "act": "2. Put on headphone", "sub": "1", "obj": "1", "loc": "2", "eff_sub": "auditory feedback", "eff_obj": "wearable"}
+{"video": "61-S031C003P097R001A061_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1. In a meeting room", "eff_sub": "enhance his performance", "eff_obj": "no effect"}
+{"video": "62-S029C001P044R002A062_rgb.avi", "act": "4. Take off headphone", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "stress relief", "eff_obj": "changes size"}
+{"video": "62-S030C002P094R001A062_rgb.avi", "act": "4. Take off headphone", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "improve concentration", "eff_obj": "blows the object"}
+{"video": "63-S024C002P064R001A063_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "improves dexterity", "eff_obj": "in part"}
+{"video": "63-S029C001P088R002A063_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "improve hand-eye coordination", "eff_obj": "on top of shelf"}
+{"video": "64-S019C002P046R002A064_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "improve hand eye coordination", "eff_obj": "makes the ball bounce"}
+{"video": "64-S030C002P096R002A064_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "improve dexterity and rhythm", "eff_obj": "bounces on floor"}
+{"video": "65-S030C001P076R002A065_rgb.avi", "act": "2. Table tennis bat swing", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "improves balance", "eff_obj": "spins"}
+{"video": "65-S031C003P096R002A065_rgb.avi", "act": "2. Table tennis bat swing", "sub": "1", "obj": "1", "loc": "1. In a meeting room", "eff_sub": "improves dexterity", "eff_obj": "disturbance"}
+{"video": "66-S027C001P086R002A066_rgb.avi", "act": "4", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "improved dexterity", "eff_obj": "flips the card over"}
+{"video": "66-S031C001P099R001A066_rgb.avi", "act": "3. Juggling table tennis balls", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "dexterity", "eff_obj": "causes the other object to move"}
+{"video": "67-S020C003P053R002A067_rgb.avi", "act": "2", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "This action might help the performer express emotions or prepare mentally for the performance.", "eff_obj": "None"}
+{"video": "67-S026C001P008R002A067_rgb.avi", "act": "2", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "can make people relaxed", "eff_obj": "vibrates"}
+{"video": "68-S031C001P099R002A068_rgb.avi", "act": "4", "sub": "1", "obj": "3", "loc": "1. In a meeting room", "eff_sub": "improve performance", "eff_obj": "None"}
+{"video": "68-S032C002P067R002A068_rgb.avi", "act": "4. Flick hair", "sub": "1", "obj": "3", "loc": "1", "eff_sub": "headache relief", "eff_obj": "wearer's ears"}
+{"video": "69-S024C002P060R002A069_rgb.avi", "act": "2", "sub": "1", "obj": "4", "loc": "1", "eff_sub": "improved mood and increased energy", "eff_obj": "spinning"}
+{"video": "69-S026C001P041R001A069_rgb.avi", "act": "2", "sub": "1", "obj": "4", "loc": "1", "eff_sub": "increasing dexterity and muscle memory as one practices and improves this trick", "eff_obj": "spins"}
+{"video": "70-S026C002P049R002A070_rgb.avi", "act": "3", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "increased heart rate", "eff_obj": "none"}
+{"video": "70-S028C003P070R001A070_rgb.avi", "act": "2. Thumb up", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "It might boost her confidence and demonstrate her self-defense skills", "eff_obj": "None"}
+{"video": "71-S020C002P044R001A071_rgb.avi", "act": "3", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "This action might draw attention to the performer's left hand, highlighting its importance in the performance or signaling a specific message or cue.", "eff_obj": "None"}
+{"video": "71-S027C002P043R002A071_rgb.avi", "act": "3", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "the performer's voice may start to crack, and the eardrums may feel pressure, making them feel somewhat uncomfortable", "eff_obj": "blown"}
+{"video": "72-S030C001P048R002A072_rgb.avi", "act": "3", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "it might make him feel more confident and energetic", "eff_obj": "None"}
+{"video": "72-S031C002P051R001A072_rgb.avi", "act": "3", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "improve balance", "eff_obj": "spatial relationships"}
+{"video": "73-S030C001P011R001A073_rgb.avi", "act": "3. Staple book", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "distracted", "eff_obj": "spatial relationships"}
+{"video": "73-S032C003P067R002A073_rgb.avi", "act": "2. Tear up paper", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "explosive", "eff_obj": "attached to me"}
+{"video": "74-S026C003P071R001A074_rgb.avi", "act": "3", "sub": "1", "obj": "4", "loc": "1", "eff_sub": "This might make the performer feel stressed.", "eff_obj": "spatial relationships"}
+{"video": "74-S029C003P043R002A074_rgb.avi", "act": "3. Counting money", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "distracted", "eff_obj": "spatial relationships"}
+{"video": "75-S030C001P048R001A075_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "improves dexterity", "eff_obj": "None"}
+{"video": "75-S032C001P104R001A075_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "The performer might feel a sense of accomplishment or entertainment upon creating a desired shape or pattern with the objects.", "eff_obj": "spinning"}
+{"video": "76-S025C003P066R002A076_rgb.avi", "act": "4. Fold paper", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "enhancing skill", "eff_obj": "spatial relationships"}
+{"video": "76-S029C002P051R001A076_rgb.avi", "act": "4. Fold paper", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "improve focus", "eff_obj": "deformation"}
+{"video": "77-S030C003P095R002A077_rgb.avi", "act": "4", "sub": "4", "obj": "2. Nothing", "loc": "2", "eff_sub": "improve focus", "eff_obj": "None"}
+{"video": "77-S032C003P044R001A077_rgb.avi", "act": "4", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "the performer will build up strength in their arms", "eff_obj": "None"}
+{"video": "78-S023C001P068R001A078_rgb.avi", "act": "1", "sub": "1", "obj": "1", "loc": "3. Indoors and outdoors", "eff_sub": "improved dexterity", "eff_obj": "spinning"}
+{"video": "78-S026C003P076R001A078_rgb.avi", "act": "1", "sub": "1", "obj": "3", "loc": "1", "eff_sub": "distracted", "eff_obj": "spatial relationships"}
+{"video": "79-S029C003P049R002A079_rgb.avi", "act": "3. Sniff", "sub": "1", "obj": "3", "loc": "1. In a meeting room", "eff_sub": "refreshing", "eff_obj": "decrease in the amount of liquid"}
+{"video": "79-S032C002P104R002A079_rgb.avi", "act": "3. Sniff", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "can make the performer cool", "eff_obj": "emptied"}
+{"video": "80-S025C001P059R001A080_rgb.avi", "act": "4", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "enhance flexibility", "eff_obj": "None"}
+{"video": "80-S032C001P008R001A080_rgb.avi", "act": "4", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "This action might help the performer relieve physical tension and enhance their concentration.", "eff_obj": "None"}
+{"video": "81-S024C001P067R002A081_rgb.avi", "act": "3. Toss a coin", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "dizzy", "eff_obj": "spinning"}
+{"video": "81-S030C001P096R002A081_rgb.avi", "act": "3. Toss a coin", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "increased focus and readiness", "eff_obj": "spins"}
+{"video": "82-S020C003P052R001A082_rgb.avi", "act": "3", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "The action might help the performer to better understand or visualize the details of the object, such as its size and composition, and might also evoke a sense of curiosity or wonder about its structure or function.", "eff_obj": "deformation"}
+{"video": "82-S031C002P041R002A082_rgb.avi", "act": "3. Fold paper", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "increase familiarity with the pen trick", "eff_obj": "spatial relationships"}
+{"video": "83-S029C001P041R001A083_rgb.avi", "act": "4", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "improve dexterity", "eff_obj": "spatial relationships"}
+{"video": "83-S030C003P091R001A083_rgb.avi", "act": "4", "sub": "1", "obj": "1", "loc": "1. In a meeting room", "eff_sub": "reducing stress and tension", "eff_obj": "shape change"}
+{"video": "84-S028C001P008R002A084_rgb.avi", "act": "2. Play rubik's cube", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "improve dexterity", "eff_obj": "bend"}
+{"video": "84-S029C002P074R001A084_rgb.avi", "act": "2", "sub": "1", "obj": "5", "loc": "1", "eff_sub": "improve dexterity", "eff_obj": "spinning"}
+{"video": "85-S018C003P008R002A085_rgb.avi", "act": "3", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "improve dexterity", "eff_obj": "spatial relationships"}
+{"video": "85-S028C001P048R002A085_rgb.avi", "act": "3", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "absorb stress", "eff_obj": "smells the perfume"}
+{"video": "86-S019C002P046R001A086_rgb.avi", "act": "4", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "improves dexterity", "eff_obj": "spinning"}
+{"video": "86-S019C003P042R002A086_rgb.avi", "act": "4", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "relaxation", "eff_obj": "unwrapped"}
+{"video": "87-S027C001P086R002A087_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "This action can cause the muscles around the shoulder and chest to tighten, potentially leading to discomfort or pain if done improperly.", "eff_obj": "compressed"}
+{"video": "87-S029C003P090R001A087_rgb.avi", "act": "2. Put on bag", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "It might give the feeling of being more confident to walk on the stage", "eff_obj": "spatial relationships"}
+{"video": "88-S027C003P079R002A088_rgb.avi", "act": "3. Take off bag", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "reducing the weight strain on the shoulder", "eff_obj": "unzipping"}
+{"video": "88-S028C002P041R001A088_rgb.avi", "act": "3. Take off bag", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "unloading the burden from the body", "eff_obj": "unzipper"}
+{"video": "89-S023C001P066R001A089_rgb.avi", "act": "3. Put something into a bag", "sub": "1", "obj": "1", "loc": "3. Indoors and outdoors", "eff_sub": "improved balance and stability", "eff_obj": "shorts"}
+{"video": "89-S030C003P075R002A089_rgb.avi", "act": "3", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "improve posture", "eff_obj": "packedness"}
+{"video": "90-S026C001P050R002A090_rgb.avi", "act": "4. Take something out of a bag", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "helpful", "eff_obj": "unzipped"}
+{"video": "90-S032C003P041R001A090_rgb.avi", "act": "4. Take something out of a bag", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "unzip the backpack", "eff_obj": "unzipped"}
+{"video": "91-S019C001P008R002A091_rgb.avi", "act": "3. Take something out of a bag", "sub": "1", "obj": "3. Card, paper, and box", "loc": "1.", "eff_sub": "increased confidence", "eff_obj": "unwrapped"}
+{"video": "91-S030C001P075R001A091_rgb.avi", "act": "4. Open a box", "sub": "1", "obj": "3", "loc": "1", "eff_sub": "dexterity", "eff_obj": "unwrapped"}
+{"video": "92-S029C002P049R002A092_rgb.avi", "act": "3. Move heavy objects", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "improve flexibility", "eff_obj": "\u79fb\u52a8"}
+{"video": "92-S029C002P051R001A092_rgb.avi", "act": "3", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "strengthen arm", "eff_obj": "movement of object"}
+{"video": "93-S018C001P008R002A093_rgb.avi", "act": "4", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "This action might help the performer release tension or express excitement.", "eff_obj": "none"}
+{"video": "93-S030C002P093R001A093_rgb.avi", "act": "4. Shake fist", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "improve performance", "eff_obj": "turns on the light"}
+{"video": "94-S019C003P049R001A094_rgb.avi", "act": "4. Throw up a hat", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "the performer might feel accomplished", "eff_obj": "spinning motion"}
+{"video": "94-S027C003P078R001A094_rgb.avi", "act": "4", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "The performer has better hand-eye coordination and concentration.", "eff_obj": "spinning"}
+{"video": "95-S019C003P047R001A095_rgb.avi", "act": "4", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "This action might help improve flexibility and shoulder mobility for the performer.", "eff_obj": "None"}
+{"video": "95-S024C001P062R002A095_rgb.avi", "act": "4. Hands up", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "dizzying", "eff_obj": "changes state of table"}
+{"video": "96-S022C003P061R001A096_rgb.avi", "act": "2", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "crossing my arms may make me feel more confident and in control.", "eff_obj": "attached to me"}
+{"video": "96-S024C001P067R001A096_rgb.avi", "act": "2", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "increases heart rate", "eff_obj": "gives the ball a spinning motion"}
+{"video": "97-S021C002P058R001A097_rgb.avi", "act": "3", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "This action might help the performer to relax and feel more comfortable, as repetitive arm movements can be calming and meditative.", "eff_obj": "spinning"}
+{"video": "97-S023C001P068R001A097_rgb.avi", "act": "3", "sub": "1", "obj": "4. Gear", "loc": "3. Indoors and outdoors", "eff_sub": "improve coordination", "eff_obj": "spinning"}
+{"video": "98-S018C002P008R002A098_rgb.avi", "act": "3. Arm circles", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "The performer may feel the energy from spinning the jump rope.", "eff_obj": "None"}
+{"video": "98-S029C003P089R002A098_rgb.avi", "act": "4", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "improve coordination", "eff_obj": "None"}
+{"video": "99-S024C002P062R002A099_rgb.avi", "act": "3", "sub": "1", "obj": "4", "loc": "1", "eff_sub": "This could enhance their dexterity and hand-eye coordination.", "eff_obj": "spinning"}
+{"video": "99-S027C001P011R001A099_rgb.avi", "act": "3", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "improving cardiovascular health", "eff_obj": "None"}
+{"video": "100-S020C003P043R001A100_rgb.avi", "act": "3. Butt kicks", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "improved flexibility and muscle relaxation", "eff_obj": "None"}
+{"video": "100-S022C003P065R002A100_rgb.avi", "act": "3. Butt kicks", "sub": "1", "obj": "1. Box", "loc": "1", "eff_sub": "improving balance and stability", "eff_obj": "on top of table"}
+{"video": "101-S027C001P084R002A101_rgb.avi", "act": "4", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "This action might help the performer release tension, express emotions, or prepare for a physical performance.", "eff_obj": "stir the contents of the pot"}
+{"video": "101-S031C002P041R001A101_rgb.avi", "act": "4", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "stretching action can enhance flexibility and muscle relaxation", "eff_obj": "None"}
+{"video": "102-S018C002P045R001A102_rgb.avi", "act": "4", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "it might make the performer more flexible", "eff_obj": "None"}
+{"video": "102-S029C003P067R002A102_rgb.avi", "act": "4", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "improve flexibility", "eff_obj": "None"}
+{"video": "103-S021C001P060R002A103_rgb.avi", "act": "4", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "It might provide a sense of relief or refreshment to the performer.", "eff_obj": "effect on object"}
+{"video": "103-S027C003P082R001A103_rgb.avi", "act": "3. Hush", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "This action might enhance the performer's expression and convey the emotions of the song.", "eff_obj": "None"}
+{"video": "104-S028C003P041R002A104_rgb.avi", "act": "3. Stretch oneself", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "improves flexibility and reduces muscle tension", "eff_obj": "None"}
+{"video": "104-S029C002P074R001A104_rgb.avi", "act": "3. Stretch oneself", "sub": "4", "obj": "2", "loc": "1", "eff_sub": "increased energy", "eff_obj": "None"}
+{"video": "105-S023C003P056R001A105_rgb.avi", "act": "4. Blow nose", "sub": "1", "obj": "2. Nothing", "loc": "3. Indoors and outdoors", "eff_sub": "enhancing their emotional connection to the music", "eff_obj": "None"}
+{"video": "105-S025C002P065R002A105_rgb.avi", "act": "4", "sub": "1", "obj": "2. Nothing", "loc": "1", "eff_sub": "build anticipation in the audience", "eff_obj": "no impact"}
+{"video": "106-S023C001P062R001A106_rgb.avi", "act": "5", "sub": "4", "obj": "1", "loc": "3. Indoors and outdoors", "eff_sub": "hurt his back", "eff_obj": "unzipping"}
+{"video": "106-S028C003P073R002A106_rgb.avi", "act": "2. Hit other person with something", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "This action might create an illusion of magic or skill for the audience, enhancing the performer's reputation.", "eff_obj": "flying"}
+{"video": "107-S025C002P059R002A107_rgb.avi", "act": "5", "sub": "1. Man", "obj": "1", "loc": "1", "eff_sub": "increased focus", "eff_obj": "spatial relationships"}
+{"video": "107-S028C001P073R001A107_rgb.avi", "act": "4", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "This action might make the performer appear confident and playful, as well as create a sense of anticipation or challenge for the viewer.", "eff_obj": "none"}
+{"video": "108-S023C002P061R001A108_rgb.avi", "act": "4. Knock over other person", "sub": "3", "obj": "2. Nothing", "loc": "1", "eff_sub": "enhancing focus and readiness", "eff_obj": "None"}
+{"video": "108-S031C002P008R002A108_rgb.avi", "act": "4. Knock over other person", "sub": "4", "obj": "2. Nothing", "loc": "1", "eff_sub": "improve elastic ability", "eff_obj": "slips"}
+{"video": "109-S019C001P041R001A109_rgb.avi", "act": "3", "sub": "4", "obj": "1", "loc": "1", "eff_sub": "exhausted", "eff_obj": "spinning"}
+{"video": "109-S031C002P098R002A109_rgb.avi", "act": "3. Grab other person's stuff", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "dizzy", "eff_obj": "spinning"}
+{"video": "110-S019C001P050R002A110_rgb.avi", "act": "3", "sub": "1", "obj": "1", "loc": "1. In a meeting room", "eff_sub": "increased confidence", "eff_obj": "move"}
+{"video": "110-S020C002P053R001A110_rgb.avi", "act": "3", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "It could impress the other person and enhance her confidence in front of an audience.", "eff_obj": "none"}
+{"video": "111-S022C001P064R002A111_rgb.avi", "act": "4. Step on foot", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "It might make the performer feel more nervous", "eff_obj": "stacked on top of each other"}
+{"video": "111-S025C001P055R001A111_rgb.avi", "act": "4", "sub": "3", "obj": "1", "loc": "1", "eff_sub": "It can improve balance and flexibility.", "eff_obj": "None"}
+{"video": "112-S030C003P075R002A112_rgb.avi", "act": "4", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "disorient the performer", "eff_obj": "none"}
+{"video": "112-S031C001P008R002A112_rgb.avi", "act": "4", "sub": "1", "obj": "2. The other person's hand", "loc": "1", "eff_sub": "excited", "eff_obj": "none"}
+{"video": "113-S024C003P064R001A113_rgb.avi", "act": "4", "sub": "3", "obj": "2", "loc": "1", "eff_sub": "increase in excitement", "eff_obj": "spinning"}
+{"video": "113-S029C002P049R002A113_rgb.avi", "act": "4. Cheers and drink", "sub": "3", "obj": "4", "loc": "1", "eff_sub": "distracted", "eff_obj": "opened"}
+{"video": "114-S026C003P041R002A114_rgb.avi", "act": "3. Carry something with other person", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "appease partner", "eff_obj": "attached to the other person"}
+{"video": "114-S029C001P051R002A114_rgb.avi", "act": "3. Carry something with other person", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "strengthens arm and back muscles", "eff_obj": "spatial relationships"}
+{"video": "115-S019C002P048R001A115_rgb.avi", "act": "4", "sub": "1. Man", "obj": "1", "loc": "1", "eff_sub": "impressive", "eff_obj": "no effect"}
+{"video": "115-S021C001P058R001A115_rgb.avi", "act": "4", "sub": "1", "obj": "1", "loc": "1", "eff_sub": "This action might increase the performer's confidence, reduce anxiety, and create a focused and prepared mindset for the upcoming performance.", "eff_obj": "None"}
+{"video": "116-S023C001P067R001A116_rgb.avi", "act": "4", "sub": "3", "obj": "1", "loc": "3. Indoors and outdoors", "eff_sub": "can make people drowsy", "eff_obj": "None"}
+{"video": "116-S028C002P073R001A116_rgb.avi", "act": "4. Follow other person", "sub": "4", "obj": "1", "loc": "1", "eff_sub": "increased heart rate", "eff_obj": "none"}
+{"video": "117-S027C001P082R001A117_rgb.avi", "act": "4. Whisper in other person's ear", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "This action might have some sort of effect on the performer, possibly for the sake of performance or to convey a specific emotion or message.", "eff_obj": "none"}
+{"video": "117-S029C003P008R002A117_rgb.avi", "act": "4", "sub": "3", "obj": "2. Nothing", "loc": "1", "eff_sub": "can increase heart rate and release adrenaline", "eff_obj": "no object exists"}
+{"video": "118-S024C001P067R002A118_rgb.avi", "act": "4", "sub": "3. Boys", "obj": "3", "loc": "1", "eff_sub": "increasing confidence", "eff_obj": "spatial relationships"}
+{"video": "118-S028C003P087R002A118_rgb.avi", "act": "1", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "The performer will look more professional.", "eff_obj": "unzips"}
+{"video": "119-S026C001P075R001A119_rgb.avi", "act": "4", "sub": "1. Man and woman", "obj": "3", "loc": "1. In a meeting room", "eff_sub": "decrease in balance", "eff_obj": "unbalanced"}
+{"video": "119-S032C003P043R002A119_rgb.avi", "act": "4", "sub": "1", "obj": "3", "loc": "1", "eff_sub": "spinal cord", "eff_obj": "attached to the other person"}
+{"video": "120-S020C003P041R001A120_rgb.avi", "act": "4", "sub": "1", "obj": "2", "loc": "1", "eff_sub": "This action might make the performer feel focused.", "eff_obj": "None"}
+{"video": "120-S026C002P044R002A120_rgb.avi", "act": "4", "sub": "3", "obj": "2. The other person's hand", "loc": "1", "eff_sub": "increase confidence", "eff_obj": "broken"}

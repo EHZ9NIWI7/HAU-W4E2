@@ -1,0 +1,177 @@
+{"loc": "in a meeting room", "subset": ["NTU", "Kinetics", "UCF"], "num": 188}
+{"loc": "in an office", "subset": ["NTU"], "num": 43}
+{"loc": "outdoors", "subset": ["NTU", "Kinetics", "UCF", "ActivityNet"], "num": 89}
+{"loc": "in a corridor", "subset": ["NTU", "Kinetics", "UCF"], "num": 10}
+{"loc": "on a rooftop", "subset": ["Kinetics"], "num": 1}
+{"loc": "on the stage", "subset": ["Kinetics", "ActivityNet"], "num": 10}
+{"loc": "indoors", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 243}
+{"loc": "in a living room", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 31}
+{"loc": "on a beach", "subset": ["Kinetics", "ActivityNet"], "num": 7}
+{"loc": "unknown", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 102}
+{"loc": "at an archaeological site", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a lecture hall", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a kitchen", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 39}
+{"loc": "on the street", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 16}
+{"loc": "on the grass", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 27}
+{"loc": "in a bar", "subset": ["Kinetics", "ActivityNet"], "num": 2}
+{"loc": "in a bathroom", "subset": ["Kinetics", "ActivityNet"], "num": 10}
+{"loc": "in a gym", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 34}
+{"loc": "in a zero-gravity room", "subset": ["Kinetics"], "num": 1}
+{"loc": "on the snow", "subset": ["Kinetics"], "num": 13}
+{"loc": "in a workshop", "subset": ["Kinetics", "ActivityNet"], "num": 7}
+{"loc": "on the sea", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 17}
+{"loc": "in a factory", "subset": ["Kinetics"], "num": 7}
+{"loc": "in a classroom", "subset": ["Kinetics", "ActivityNet"], "num": 8}
+{"loc": "on the shore", "subset": ["Kinetics"], "num": 5}
+{"loc": "on the sky", "subset": ["Kinetics", "UCF"], "num": 5}
+{"loc": "in a car", "subset": ["Kinetics", "ActivityNet"], "num": 8}
+{"loc": "on a river", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 13}
+{"loc": "in a yard", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 18}
+{"loc": "on a baseball field", "subset": ["Kinetics", "UCF"], "num": 6}
+{"loc": "on a frisbee field", "subset": ["Kinetics", "UCF"], "num": 2}
+{"loc": "on a softball field", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a soccer field", "subset": ["Kinetics", "UCF"], "num": 5}
+{"loc": "beside a car", "subset": ["Kinetics"], "num": 2}
+{"loc": "in a basketball gym", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 11}
+{"loc": "in a cinema", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a pool", "subset": ["Kinetics"], "num": 4}
+{"loc": "in a barn", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a tree", "subset": ["Kinetics"], "num": 1}
+{"loc": "beside a door", "subset": ["Kinetics"], "num": 2}
+{"loc": "in a dance studio", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 7}
+{"loc": "on a curling rink", "subset": ["Kinetics", "ActivityNet"], "num": 2}
+{"loc": "at a construction site", "subset": ["Kinetics"], "num": 3}
+{"loc": "in a restaurant", "subset": ["Kinetics"], "num": 5}
+{"loc": "at a intersection", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a disc golf course", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a dock", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a road", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 14}
+{"loc": "beside a garbage bin", "subset": ["Kinetics"], "num": 2}
+{"loc": "in a church", "subset": ["Kinetics"], "num": 2}
+{"loc": "at a fish pond", "subset": ["Kinetics"], "num": 1}
+{"loc": "at a lamb pen", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a fencing piste", "subset": ["Kinetics", "UCF"], "num": 3}
+{"loc": "in a parking lot", "subset": ["Kinetics", "ActivityNet"], "num": 5}
+{"loc": "in the woods", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a hair salon", "subset": ["Kinetics", "UCF"], "num": 3}
+{"loc": "in a tattoo shop", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a golf course", "subset": ["Kinetics", "UCF"], "num": 5}
+{"loc": "in a pet grooming salon", "subset": ["Kinetics"], "num": 2}
+{"loc": "in a horse ranch", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 4}
+{"loc": "on the hammer throw field", "subset": ["Kinetics", "UCF"], "num": 3}
+{"loc": "in the sea", "subset": ["Kinetics"], "num": 4}
+{"loc": "at a high jump area", "subset": ["Kinetics", "UCF"], "num": 4}
+{"loc": "on an ice hockey rink", "subset": ["Kinetics"], "num": 2}
+{"loc": "in a indoor playground", "subset": ["Kinetics"], "num": 1}
+{"loc": "on an american football field", "subset": ["Kinetics"], "num": 5}
+{"loc": "on the track", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a hurling pitch", "subset": ["Kinetics", "ActivityNet"], "num": 4}
+{"loc": "on a glacier", "subset": ["Kinetics"], "num": 1}
+{"loc": "on the ice", "subset": ["Kinetics", "ActivityNet"], "num": 3}
+{"loc": "on an ice rink", "subset": ["Kinetics", "UCF"], "num": 3}
+{"loc": "at an ice swimming pool", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a javelin field", "subset": ["Kinetics", "UCF"], "num": 3}
+{"loc": "in a swimming pool", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 14}
+{"loc": "in a bedroom", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 14}
+{"loc": "on the racing track", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a deck", "subset": ["Kinetics"], "num": 3}
+{"loc": "in a green space", "subset": ["Kinetics", "ActivityNet"], "num": 2}
+{"loc": "in a garage", "subset": ["Kinetics"], "num": 1}
+{"loc": "indoors and outdoors", "subset": ["Kinetics"], "num": 3}
+{"loc": "on a luge track", "subset": ["Kinetics"], "num": 1}
+{"loc": "on the field", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a goat pen", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a supermarket", "subset": ["Kinetics"], "num": 2}
+{"loc": "on an indoor soccer field", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a fruit and vegetable garden", "subset": ["Kinetics"], "num": 2}
+{"loc": "in a music studio", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 8}
+{"loc": "in a badminton gym", "subset": ["Kinetics"], "num": 1}
+{"loc": "on an outdoor basketball court", "subset": ["Kinetics", "ActivityNet"], "num": 3}
+{"loc": "on a balcony", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a concert hall", "subset": ["Kinetics", "UCF"], "num": 4}
+{"loc": "on a cricket pitch", "subset": ["Kinetics", "UCF"], "num": 5}
+{"loc": "on a hockey field", "subset": ["Kinetics", "UCF"], "num": 4}
+{"loc": "on a kickball field", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a laser tag arena", "subset": ["Kinetics"], "num": 1}
+{"loc": "in an indoor playground", "subset": ["Kinetics"], "num": 1}
+{"loc": "on an outdoor netball court", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a paintball field", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a polo field", "subset": ["Kinetics"], "num": 1}
+{"loc": "in an arcade", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a racquetball court", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a tennis court", "subset": ["Kinetics", "UCF"], "num": 3}
+{"loc": "in an volleyball gym", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a weather-forecast studio", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a zoo", "subset": ["Kinetics"], "num": 2}
+{"loc": "at a fuel station", "subset": ["Kinetics"], "num": 1}
+{"loc": "tourist attraction", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a mule barn", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a path on the lawn", "subset": ["Kinetics", "UCF"], "num": 2}
+{"loc": "on a climbing wall", "subset": ["Kinetics", "UCF"], "num": 3}
+{"loc": "in a shooting range", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a clothing store", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a shot put field", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 6}
+{"loc": "on a dance floor", "subset": ["Kinetics", "UCF"], "num": 6}
+{"loc": "at a skatepark", "subset": ["Kinetics", "ActivityNet"], "num": 3}
+{"loc": "on a ski slope", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 12}
+{"loc": "on a seat", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a weightlifting gym", "subset": ["Kinetics", "ActivityNet"], "num": 3}
+{"loc": "in a cave", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a swimming pool", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 6}
+{"loc": "at a calf roping field", "subset": ["Kinetics", "ActivityNet"], "num": 3}
+{"loc": "on the artificial wave", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a courtroom", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a garden", "subset": ["Kinetics"], "num": 2}
+{"loc": "on a long jump track", "subset": ["Kinetics", "UCF", "ActivityNet"], "num": 8}
+{"loc": "at a freight dock", "subset": ["Kinetics"], "num": 1}
+{"loc": "at a car vacuum station", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a mud pit", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a covered queue area", "subset": ["Kinetics"], "num": 1}
+{"loc": "on the stairs", "subset": ["Kinetics"], "num": 1}
+{"loc": "on a waterslide", "subset": ["Kinetics"], "num": 1}
+{"loc": "in a gymnastics arena", "subset": ["UCF", "ActivityNet"], "num": 19}
+{"loc": "in a bowling alley", "subset": ["UCF", "ActivityNet"], "num": 3}
+{"loc": "on a artificial high cliff", "subset": ["UCF"], "num": 2}
+{"loc": "on a frisbee gym", "subset": ["UCF"], "num": 1}
+{"loc": "in a head massage parlor", "subset": ["UCF"], "num": 2}
+{"loc": "at a racecourse", "subset": ["UCF"], "num": 2}
+{"loc": "on a square", "subset": ["UCF"], "num": 2}
+{"loc": "in a pole vault facility", "subset": ["UCF", "ActivityNet"], "num": 3}
+{"loc": "in a boxing ring", "subset": ["UCF"], "num": 2}
+{"loc": "at the hair salon", "subset": ["UCF"], "num": 1}
+{"loc": "on a lake", "subset": ["UCF", "ActivityNet"], "num": 4}
+{"loc": "in a sumo wrestling ring", "subset": ["UCF", "ActivityNet"], "num": 3}
+{"loc": "in a table tennis gym", "subset": ["UCF"], "num": 2}
+{"loc": "in a discus field", "subset": ["UCF", "ActivityNet"], "num": 6}
+{"loc": "in a volleyball gym", "subset": ["UCF"], "num": 1}
+{"loc": "in an outdoor fitness area", "subset": ["ActivityNet"], "num": 4}
+{"loc": "in a stable", "subset": ["ActivityNet"], "num": 1}
+{"loc": "by a pool in a yard", "subset": ["ActivityNet"], "num": 1}
+{"loc": "in an ice hockey rink", "subset": ["ActivityNet"], "num": 1}
+{"loc": "on a cricket field", "subset": ["ActivityNet"], "num": 1}
+{"loc": "on a talk show stage", "subset": ["ActivityNet"], "num": 1}
+{"loc": "at a bumper car arena", "subset": ["ActivityNet"], "num": 2}
+{"loc": "in a car wash", "subset": ["ActivityNet"], "num": 1}
+{"loc": "in a pit lane", "subset": ["ActivityNet"], "num": 1}
+{"loc": "on a beach volleyball court", "subset": ["ActivityNet"], "num": 1}
+{"loc": "on a futsal court", "subset": ["ActivityNet"], "num": 4}
+{"loc": "on a roof", "subset": ["ActivityNet"], "num": 2}
+{"loc": "outside a garage", "subset": ["ActivityNet"], "num": 1}
+{"loc": "in a racquetball court", "subset": ["ActivityNet"], "num": 2}
+{"loc": "on a outdoor basketball court", "subset": ["ActivityNet"], "num": 1}
+{"loc": "in a house", "subset": ["ActivityNet"], "num": 1}
+{"loc": "in a park", "subset": ["ActivityNet"], "num": 2}
+{"loc": "in a stadium", "subset": ["ActivityNet"], "num": 1}
+{"loc": "in a locker room", "subset": ["ActivityNet"], "num": 1}
+{"loc": "on a snow tubing hill", "subset": ["ActivityNet"], "num": 1}
+{"loc": "on a triple jump track", "subset": ["ActivityNet"], "num": 1}
+{"loc": "in a vineyard", "subset": ["ActivityNet"], "num": 1}
+{"loc": "in a yacht's kitchen", "subset": ["ActivityNet"], "num": 1}
+{"loc": "in a bike repair shop", "subset": ["ActivityNet"], "num": 1}
+{"loc": "on a volleyball gym", "subset": ["ActivityNet"], "num": 1}
+{"loc": "on indoor and outdoor basketball courts", "subset": ["ActivityNet"], "num": 1}
+{"loc": "military training place", "subset": ["ActivityNet"], "num": 1}
+{"loc": "in a hookah lounge", "subset": ["ActivityNet"], "num": 1}
+{"loc": "on an outdoor volleyball court", "subset": ["ActivityNet"], "num": 1}
+{"loc": "on a beach soccer court", "subset": ["ActivityNet"], "num": 1}
+{"loc": "in a painting studio", "subset": ["ActivityNet"], "num": 1}
