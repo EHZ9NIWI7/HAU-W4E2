@@ -16,7 +16,7 @@ This is the official code and data of the paper:  **"W4E2: A Benchmark for Human
 
 
 ## Data
-All videos in this benchmark can be downloaded via [this link](https://drive.google.com/file/d/1z1bF6csd4ZRRbhSV7DAoCsUqj2CbFQi_/view?usp=drive_link). After downloading, please either copy the videos to the [./data/Videos](./data/Videos) directory or change the "--dataset_dir" argument in the code. These videos are sourced from the following human action datasets:
+All videos in this benchmark can be downloaded via [this link](https://drive.google.com/file/d/1z1bF6csd4ZRRbhSV7DAoCsUqj2CbFQi_/view?usp=drive_link). After downloading, please either put the videos to the [./data/Videos](./data/Videos) directory or change the "--dataset_dir" argument in the code. These videos are sourced from the following human action datasets:
 - [NTU RGB+D 120](https://rose1.ntu.edu.sg/dataset/actionRecognition/)
 - [UCF-101](https://www.crcv.ucf.edu/data/UCF101.php)
 - [ActivityNet](http://activity-net.org/)
