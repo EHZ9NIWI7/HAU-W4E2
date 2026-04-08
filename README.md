@@ -48,7 +48,7 @@ Arguments specified via the command line will take precedence over those defined
 ## Results
 The experimental results of the 13 evaluated MLLMs on the four subsets:
 <p align="center">
-  <img src="/figures/results.png" width="90%">
+  <img src="/figures/results.png" width="80%">
   <br/>
 </p>
 
