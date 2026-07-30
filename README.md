@@ -1,6 +1,6 @@
 # W4E2: A Benchmark for Human Action Understanding
 This is the official code and data of the paper:  **"W4E2: A Benchmark for Human Action Understanding with Actor-Object Effects"** (*Submitted to ACM MM 2026*)
-<!-- [**"W4E2: A Benchmark for Human Action Understanding with Actor–Object Effects"**](https://). (*ACM MM 2026*) -->
+<!-- [**"W4E2: A Benchmark for Human Action Understanding with Actor–Object Effects"**](https://). (*AAAI 2027*) -->
 
 <p align="center">
   <img src="/figures/introduction.png" width="100%">
